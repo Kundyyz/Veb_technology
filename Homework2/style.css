@@ -1,6 +1,6 @@
 @font-face {
     font-family: f1;
-    src: url('fonds/teddy-bear.ttf');
+    src: url('fonts/teddy-bear.ttf');
 }
 body{
     background-color: rgba(228, 196, 136, 0.2);
