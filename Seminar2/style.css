@@ -1,0 +1,42 @@
+@font-face {
+    font-family: f1;
+    src: url('fonds/teddy-bear.ttf');
+}
+body{
+    background-color: rgba(73, 175, 175, 0.199);
+    
+}
+h1{
+    color: red;
+    font-family: f1, sans-serif;
+    margin-left: 100px;
+}
+h2{
+    color: rgb(211, 96, 43);
+    margin-left: 100px;
+}
+a{
+    color: blue;
+    margin-left: 30px;
+}
+a:hover{
+    color: black;
+    margin-left: 30px;
+}
+img{
+    width: 300px;
+    border: 3px solid black;
+    margin-left: 50px;
+}
+.big_text{
+    font-size: 1.5em;
+}
+ul{
+    list-style-type: square;
+    margin-left: 30px;
+}
+#wrapper{
+    width: 600px;
+    margin: 0 auto;
+    background-color: azure;
+}
